@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hello, I am Emmanuel Ulelu, a diverse Frontend Engineer with 1 year
+            I am a Frontend Engineer with 1 year
             of professional experience building software solutions. Open-minded,
             easily adapting to changes, adopting new technologies and interested
             in solving real-world problems with software.
