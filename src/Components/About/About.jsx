@@ -4,6 +4,7 @@ import ME from "../../Assets/ME_ABOUT.JPG";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import CTA from "../Header/CTA"
 
 const About = () => {
   return (
@@ -42,9 +43,10 @@ const About = () => {
             easily adapting to changes, adopting new technologies and interested
             in solving real-world problems with software.
           </p>
-          <a href="#contact" className="btn btn-primary">
+          {/* <a href="#contact" className="btn btn-primary">
             Let's talk
-          </a>
+          </a> */}
+          <CTA />
         </div>
       </div>
     </section>
