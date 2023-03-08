@@ -30,9 +30,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'React Calculator',
-    github: 'https://github.com/Emmy-Styles/React-Calculator',
-    demo: 'https://react-calculator-one-puce.vercel.app/'
+    title: 'Zip-Finance HooBank',
+    github: 'https://github.com/Emmy-Styles/HooBank',
+    demo: 'https://zip-finance.netlify.app/'
   }
 ]
 
